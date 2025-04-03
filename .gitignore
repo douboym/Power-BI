@@ -1,0 +1,23 @@
+# --- Fichiers Power BI ---
+*.pbix~             # fichiers de sauvegarde automatique
+*.tmp               # fichiers temporaires
+
+# --- VSCode ---
+.vscode/            # config locale de VSCode
+*.code-workspace
+
+# --- Windows system files ---
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# --- Dossiers système ---
+.DS_Store
+.idea/
+*.bak
+*.log
+
+# --- Fichiers personnels ou lourds à exclure (optionnel) ---
+# Exemple : données sensibles ou exports Excel
+# *.xlsx
+# /export/
