@@ -1,0 +1,43 @@
+{
+  "name": "DAX Clean & Pro",
+  "dataColors": [
+    "#0078D4", "#2B88D8", "#00B7C3", "#72E2A7", "#F5B700", "#F06C00", "#D13438"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#0078D4",
+  "visualStyles": {
+    "*": {
+      "*": [
+        {
+          "fontFamily": "Segoe UI",
+          "fontSize": 12
+        }
+      ]
+    },
+    "titleText": {
+      "*": [
+        {
+          "color": { "solid": { "color": "#2B2B2B" } },
+          "fontSize": 14,
+          "fontFamily": "Segoe UI Semibold"
+        }
+      ]
+    },
+    "labelText": {
+      "*": [
+        {
+          "color": { "solid": { "color": "#404040" } }
+        }
+      ]
+    },
+    "header": {
+      "*": [
+        {
+          "fontColor": { "solid": { "color": "#FFFFFF" } },
+          "backColor": { "solid": { "color": "#0078D4" } }
+        }
+      ]
+    }
+  }
+}
