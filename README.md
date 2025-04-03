@@ -17,7 +17,7 @@ Vous y trouverez des tableaux de bord interactifs, des rapports analytiques et d
 
 Chaque dossier contient un projet distinct avec :
 - Le fichier `.pbix` (rapport Power BI)
-- Un sous-dossier `docs/` (captures d'écran du dashboard)
+- Des ficheirs `csv/Exvel` (données)
 - Une description rapide du projet dans un fichier `README.md` local
 
 ---
@@ -27,7 +27,6 @@ Chaque dossier contient un projet distinct avec :
 | Projet                      | Thématique            | Description rapide                       |
 |----------------------------|------------------------|------------------------------------------|
 | `Import_Export_V23`        | Commerce international | Analyse des flux d'import/export mondiaux |
-| `CRM_Analysis`             | Marketing / CRM        | KPI : taux d’ouverture, de clics, etc.   |
 | `Sales_Overview`           | Vente / Retail         | Analyse des ventes par produit et période|
 | `HR_Dashboard`             | RH / Management        | Analyse de l’attrition et effectifs       |
 
